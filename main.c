@@ -42,8 +42,8 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-uint8_t counterA = 0;  // Contador para BT1 (Puerto A)
-uint8_t counterB = 0;  // Contador para BT2 (Puerto aún no definido)
+uint8_t counterA = 0;  // Contador para BT1 
+uint8_t counterB = 0;  // Contador para BT2 
 uint8_t estado = 1;
 
 const uint8_t tabla_segmentos[10] = {
